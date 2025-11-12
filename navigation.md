@@ -8,7 +8,7 @@
 - About
 - Contact Us
 
-## 로그인/ㄹ그아웃
+## 로그인/로그아웃
 
 - Login
 - Lgout
